@@ -104,3 +104,31 @@ Why is weekday sales higher than weekend sales?
 1. Weekday sales are always much higher than weekend sales. It seems that consumer behavior mainly occurs on working days.
 
 2. Our main customers are mainly from businesses and can also buy in large quantities.
+
+**4.2.4. Revenue by segment**
+
+![](imagine/revenuesegmentbyyear.png)
+
+Customer segmentation analysis
+
+1. In 4 years, revenue in 2016 decreased significantly compared to the remaining years. Especially the Home Office segment, the lowest in the years.
+
+2. In 2018, the Corporate and Home Office segments doubled compared to the previous 3 years. It can be seen that revenue has improved significantly after 2016.
+
+3. The main segment of supermarkets is still Consumer, leading over 4 years.
+
+4. Home office and Coperate are in the development stage in the market, it is possible to consider to develop strategies and marketing to focus on these two segments.
+
+**4.2.5. Revenue by Category**
+
+![](imagine/revenuebycategory.png)
+
+Why is the Technoly category growing the most?
+
+1. The furniture category ranked second in revenue among the three categories, but grew the slowest. Perhaps customers are not too interested in Furniture.
+
+2. Office Supplies in 2018 is doubling compared to 2015, perhaps because of a change in sales policy after a decline in revenue in 2016.
+
+3. It can be seen that Technology is always at the top of the category, this is the year of the beginning of the 4.0 industrial revolution, so the market is showing a strong trend of developing the Technology industry, customers are willing to spend money to buy technology products to serve their work.
+
+4. In addition, the development of the Technology market leads to businesses wanting to expand their company's scale, they are willing to open more offices. From there, customers will also be willing to spend on the Office Supplies category.
