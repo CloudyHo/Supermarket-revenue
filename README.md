@@ -11,35 +11,55 @@ Link: Public dataset from Kaggle (Superstore Sales: https://www.kaggle.com/datas
 
 ## 3. Dataset
 Row_ID: A unique identifier for each row in the dataset, used to differentiate records.
+
 Order_ID: The order ID, a unique identifier for each order.
+
 Order_Date: The order date, indicating the date the customer placed the order.
+
 Ship_Date: The ship date, the date the order was shipped.
+
 Ship_Mode: The shipping method, indicating how the order was shipped.
+
 Customer_ID: The customer ID, a unique identifier for each customer.
+
 Customer_Name: The name of the customer who placed the order.
+
 Segment: The customer segment, indicating the classification of the customer.
+
 Country: The country, indicating the country where the customer or the order is processed.
+
 City: The city, where the customer resides or where the order is shipped to.
+
 State: The state or province, indicating the geographical region at the state level where the customer lives.
+
 Postal_Code: The postal code, a code used to determine the exact shipping location.
+
 Region: The region, indicating the geographical region to which the customer belongs.
+
 Product_ID: The product ID, a unique identifier for each product in the database.
+
 Category: The product category, indicating the type of product.
+
 Sub_Category: The product sub-category, a more specific classification within each category.
+
 Product_Name: The product name, the detailed name of the product sold.
+
 Sales: The sales amount, the revenue generated from the product in this order.
 
 ## 4. Result
 ### 4.1. Data cleaning
 - After adding the file to colab, check how the data looks like.
 
+![](imagine/df.head.png)
 
 - Change the format of the date columns and add month, year and delivery time columns.
-
+![](imagine/df.info.png)
 
 ### 4.2. Revenue Analysis
 
 **4.2.1. Monthly sales revenue**
+
+![](imagine/Monthlysalestrend.png)
 
 - Revenue comparison by month
 
@@ -51,6 +71,8 @@ Sales: The sales amount, the revenue generated from the product in this order.
 
 **4.2.2. Compare sales and orders year by year**
 
+![](imagine/Comparesalesandordersbyyear.png)
+
 - Total orders vs revenue analysis
 
 1. In 2015, with about 2,000 orders, the revenue was nearly 500 thousand USD. But in 2016, more than 2,000 orders but the revenue was lower. Showing that the order value in 2016 was not as high as in 2015.
@@ -59,6 +81,7 @@ Sales: The sales amount, the revenue generated from the product in this order.
 
 **4.2.3. Average per order**
 
+![](imagine/AVOvaluebyyear.png)
 
 - Why is the order value getting lower every year?
 
@@ -71,6 +94,8 @@ Sales: The sales amount, the revenue generated from the product in this order.
 -> It may come from standard class customers, they dont spend much on each order or buy cheap products.
 
 **4.2.4. Revenue during the week compared to the weekend**
+
+![](imagine/totalsalesweekdaysandweekends.png)
 
 Why is weekday sales higher than weekend sales?
 
