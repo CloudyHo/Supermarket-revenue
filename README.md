@@ -2,6 +2,8 @@
 ## 1. Project description
 Revenue analysis over the years
 
+![](imagine/mainimagine.jpg)
+
 ## 2. Purpose and Outcome
 Purpose: Analyze sales by region and identify the supermarket's best-selling products.
 Outcome: A set of actionable insights that show which regions generate the most revenue and which specific products contribute the most to overall sales.
