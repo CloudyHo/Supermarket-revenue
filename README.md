@@ -132,3 +132,57 @@ Why is the Technoly category growing the most?
 3. It can be seen that Technology is always at the top of the category, this is the year of the beginning of the 4.0 industrial revolution, so the market is showing a strong trend of developing the Technology industry, customers are willing to spend money to buy technology products to serve their work.
 
 4. In addition, the development of the Technology market leads to businesses wanting to expand their company's scale, they are willing to open more offices. From there, customers will also be willing to spend on the Office Supplies category.
+
+**4.2.6. Revenue by Customer Class**
+
+![](imagine/customerclassbyyear.png)
+
+**Who is your customer class market?**
+
+1. Standard class has the highest revenue and is superior to the remaining customer classes. This is our main customer, so we should maintain this loyal customer base and offer many incentive programs to thank them.
+
+2. Second class has shown signs of increasing over the years and has the potential to become loyal customers. Create discount or combo programs to attract customers, but still ensure quality to turn them into loyal customers.
+
+3. First class grew strongly in 2018 and their revenue is equal to second class. Maybe First class customers are starting to care about Technology or about price.
+
+4. For Same day customers, this may not be our target customer group, so the revenue is the lowest compared to the remaining customer classes
+
+**Revenue by Region**
+
+![](imagine/salesbyregion.png)
+
+**Top 10 Product & City of the year**
+
+![](imagine/top10product.png)
+
+![](imagine/top10city.png)
+
+**Final Conclusion**
+
+**Revenue Trend Analysis**
+1. Economic trends are changing, leading to changes in customer purchasing needs.
+2. Customers are willing to spend more on technology products than office products.
+3. The decrease in revenue in 2016 is not due to delivery time.
+4. New York has the highest revenue every year, showing that the trend of investing in technology in this state is increasing.
+5. In particular, customers have the highest demand for printers in 4 years, maybe they start to expand their offices.
+
+**What to do to increase revenue from the furniture category?**
+
+1. Offer monthly promotions to customers who buy products from the furniture category.
+
+2. Offer free shipping for customers with orders over $400.
+
+3. Promote the product everywhere.
+
+**How to increase revenue per order?**
+
+1. Create combo programs by product.
+
+2. Offer discount programs based on total order value. From there, customers tend to buy more to apply that program.
+
+3. Discount products if customers buy together.
+
+
+
+
+
